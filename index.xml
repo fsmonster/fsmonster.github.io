@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>my blog</title>
+        <link>https://example.com/</link>
+        <description>Recent content on my blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Sun, 23 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>first_post</title>
+        <link>https://example.com/p/first_post-chinese/</link>
+        <pubDate>Sun, 23 Jul 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/p/first_post-chinese/</guid>
+        <description>&lt;img src="https://example.com/p/first_post-chinese/hitagi.jpg" alt="Featured image of post first_post" /&gt;&lt;p&gt;hello world!&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>https://example.com/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>About</title>
+        <link>https://example.com/about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/about/</guid>
+        <description>&lt;p&gt;有什么好介绍的呢🤔&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Links</title>
+        <link>https://example.com/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/links/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://example.com/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
